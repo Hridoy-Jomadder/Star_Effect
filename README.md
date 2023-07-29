@@ -1,3 +1,5 @@
 # Star_Effect
-Star Size
-Star effect
+1. Star Size
+2. Star effect
+3. Star
+4. 
