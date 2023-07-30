@@ -4,4 +4,4 @@
 3. Star
 4. Star effect
 5. Star effect
-6. Star effect
+6. Star effec
