@@ -9,5 +9,4 @@ Star efffect
 Star efffect
 
 Star efffect
-Star efffect
 
