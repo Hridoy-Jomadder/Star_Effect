@@ -7,6 +7,3 @@ Star efffectStar efffect
 Star efffect
 Star efffect
 Star efffect
-
-Star efffect
-
