@@ -8,7 +8,7 @@ body {
 .like-button .heart-icon {
   height: 100px;
   width: 100px;
-  background: url("images/heart.png");
+  background: url("images/StarLogo.png");
   background-position: left;
   cursor: pointer;
   position: absolute;
